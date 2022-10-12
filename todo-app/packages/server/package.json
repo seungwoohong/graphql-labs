@@ -9,7 +9,7 @@
         "dev": "ts-node index.ts"
     },
     "dependencies": {
-        "apollo-server": "^2.14.4"
+        "apollo-server": "^2.25.4"
     },
     "devDependencies": {
         "ts-node": "^8.10.2"
